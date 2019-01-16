@@ -25,21 +25,26 @@ _New difficulties had arisen._
 Develop a pink tinge in the face from embarrassment or shame.
 _She blush when talk in public._
 
-``
-.
-_._
-``
-.
-_._
-``
-.
-_._
-``
-.
-_._
-``
-.
-_._
+`crackle`
+Make a rapid succession of slight cracking noises..
+_The wall cracked during the wind._
+
+`deteriorate`
+become worse.
+_The windows are deteriorating with the sea air._
+
+`doze`
+take a rest.
+_I think I'll have a doze,’ he said, closing his eyes._
+
+`exist`
+being, live.
+_The wifi exists thanks to the Australians._
+
+`fluctuate`
+rise and fall irregularly.
+_The real is fluctuate because Brazil has a new president._
+
 ``
 .
 _._
