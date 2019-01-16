@@ -89,41 +89,41 @@ _She yawns every Monday._
 
 #### column 05 ####
 
-``
-.
-_._
+`arrive`
+reach a place at the end of a journey.
+_I arrived in Tasmania this morning._
 
-``
-.
-_._
+`campaign`
+work in an organized and active way toward a particular goal.
+_People who campaigned against racism._
 
-``
-.
-_._
+`crawl`
+move forward on the hands.
+_He crawled after many drinks.._
 
-``
-.
-_._
+`die`
+Opposite to live.
+_She died 10 years ago._
 
-``
-.
-_._
+`drift`
+be carried slowly by a current of air or water.
+_It drifts quickly._
 
-``
-.
-_._
+`expire`
+cease to be valid.
+_The beers time expire._
 
-``
-.
-_._
+`gleam`
+shine brightly.
+_The sun gleam in the summer._
 
-``
-.
-_._
+`hesitate`
+pause before saying or doing something, especially through uncertainty.
+_She hesitated to accept the proposal of marriage._
 
-``
-.
-_._
+`moan`
+make a long, low sound.
+_The moan came from the wild creatures.._
 
 ``
 .
