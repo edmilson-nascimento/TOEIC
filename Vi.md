@@ -123,17 +123,32 @@ _She hesitated to accept the proposal of marriage._
 
 `moan`
 make a long, low sound.
-_The moan came from the wild creatures.._
+_The moan came from the wild creatures._
 
-``
-.
-_._
+`recede`
+go or move back.
+_The waters receded in the summer.._
 
-``
-.
-_._
+`scream`
+a long, loud, piercing cry expressing extreme emotion or pain..
+_She screamed because have seen a spider._
 
-``
-.
-_._
+`slip`
+typically losing one's balance or footing.
+_I slipped on the ice._
 
+`sob`
+cry noisily, making loud, convulsive gasps..
+_She sobbed after to drink so much water._
+
+`stink`
+have a strong unpleasant smell.
+_the place stank like a sewer._
+
+`throb`
+beat or sound with a strong, regular rhythm; pulsate steadily.
+_the war drums throbbed._
+
+`wait`
+stay where one is or delay.
+_Wait for me._
