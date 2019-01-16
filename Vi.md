@@ -45,6 +45,95 @@ _The wifi exists thanks to the Australians._
 rise and fall irregularly.
 _The real is fluctuate because Brazil has a new president._
 
+`happen`
+take place or occur.
+_I don't know what is happen._
+
+`live`
+remain alive.
+_She live traveling._
+
+
+`prosper`
+be financially successful.
+_Have a prosper year._
+
+`run`
+walk fast.
+_He run on the beach every day._
+
+`sleep`
+take a rest for long time.
+_I sleep very late every day._
+
+`soar`
+fly or rise high in the air.
+_The bird soared into the air._
+
+`stay`
+keep in the same place.
+_Stay here wolly._
+
+`swim`
+across the river with your legs and arms.
+_they swam in Byron Bay._
+
+`vibrate`
+move continuously.
+_I did not answer because my phone was just vibrating._
+
+`yawm`
+open your mouth when you're sleepy.
+_She yawns every Monday._
+
+
+#### column 05 ####
+
 ``
 .
 _._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
+``
+.
+_._
+
