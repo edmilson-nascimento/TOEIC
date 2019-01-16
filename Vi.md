@@ -18,5 +18,26 @@
 
 #### column 04 ####
 `arise`
-Of a problem, opportunity, or situation) emerge; become apparent.
+(of a problem, opportunity, or situation) emerge.
 _New difficulties had arisen._
+`blush`
+Develop a pink tinge in the face from embarrassment or shame.
+_She blush when talk in public._
+``
+.
+_._
+``
+.
+_._
+``
+.
+_._
+``
+.
+_._
+``
+.
+_._
+``
+.
+_._
