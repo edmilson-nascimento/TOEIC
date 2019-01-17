@@ -4,6 +4,7 @@ Remember! When we are usign any ver pattern, it is the MAIN verb which controls 
 **These verbs can use "to inf" or "ing" but the meaning changes.**
 
 antes `my code` depois
+##54321 informacao
 
 ## Exemples ##
 I `stooped` **to talk** to my friend.
