@@ -13,6 +13,7 @@ I **stopped** _talking_ to my friend.
 
 I **forgot** _to lock_ the door.
 (I did not do something that is important)
+
 I **forgot** _drinking_ the bottle of tequila last night.
 (I did something, but it is not im my brain now. Too much alcohol, bad memory, old, busy, stressed, injury)
 
