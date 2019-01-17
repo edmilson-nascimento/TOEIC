@@ -5,6 +5,8 @@ Remember! When we are usign any ver pattern, it is the MAIN verb which controls 
 
 antes `my code` depois
 ##54321 informacao
+<span style="color:red">some **This is Red Bold.** text</span>
+Roses are <span style="color:red; font-family:Georgia; font-size:2em;">red.</span>
 
 ## Exemples ##
 I `stooped` **to talk** to my friend.
