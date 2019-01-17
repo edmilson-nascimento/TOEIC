@@ -3,8 +3,10 @@ Remember! When we are usign any ver pattern, it is the MAIN verb which controls 
 
 **These verbs can use "to inf" or "ing" but the meaning changes.**
 
+antes `my code` depois
+
 ## Exemples ##
-I **stooped** _to talk_ to my friend.
+I `stooped` **to talk** to my friend.
 (Because I wanted to talk to my friend, I stopped doing something...)
 
 I **stopped** _talking_ to my friend. 
