@@ -29,4 +29,11 @@ I **regret** _drinking_ so much last night.
 (I did something and I feel bad about it)
 
 I **regret** _to tell_ you that you didn't pass the test.
-(give bad news)
+(To give bad news)
+
+
+**Try** _to do_ you homework.
+(Come on! It might be difficult but you can do it)
+
+If you go to the montains, **try** _eating_ the local cheese.
+(Advice, I think it will be good for you / you'll like it)
