@@ -25,4 +25,8 @@ I **remember** _going_ to school for the first time.
 (I did something and I can still RECALL it)
 
 
-*
+I **regret** _drinking_ so much last night.
+(I did something and I feel bad about it)
+
+I **regret** _to tell_ you that you didn't pass the test.
+(give bad news)
