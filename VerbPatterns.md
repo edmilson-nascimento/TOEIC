@@ -3,7 +3,7 @@ Remember! When we are usign any ver pattern, it is the MAIN verb which controls 
 
 **These verbs can use "to inf" or "ing" but the meaning changes.**
 
-#### Exemples ####
+## Exemples ##
 I **stooped** _to talk_ to my friend.
 (Because I wanted to talk to my friend, I stopped doing something...)
 
@@ -18,4 +18,11 @@ I **forgot** _drinking_ the bottle of tequila last night.
 (I did something, but it is not im my brain now. Too much alcohol, bad memory, old, busy, stressed, injury)
 
 
-Please
+Please **remember** _to do_ your homework.
+(Please do this important thing / advice)
+
+I **remember** _going_ to school for the first time.
+(I did something and I can still RECALL it)
+
+
+*
