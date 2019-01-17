@@ -37,3 +37,10 @@ I **regret** _to tell_ you that you didn't pass the test.
 
 If you go to the montains, **try** _eating_ the local cheese.
 (Advice, I think it will be good for you / you'll like it)
+
+
+I **meant** _to do_ my homework.
+(it was my intention (but didn't happen) (present tense: it is my plan))
+
+If you want to go to Byron, it **means** _signing_ up by today.
+(One thing necessary before another can happen)
