@@ -8,7 +8,13 @@
 * [column 05](#column-05)
 
 #### column 01 ####
-.
+`advance`
+make or cause to make progress.
+_Our knowledge is advancing all the time._
+
+`advance`
+make or cause to make progress.
+_Our knowledge is advancing all the time._
 
 #### column 02 ####
 .
@@ -17,13 +23,7 @@
 .
 
 #### column 04 ####
-`arise`
-(of a problem, opportunity, or situation) emerge.
-_New difficulties had arisen._
+.
 
 #### column 05 ####
-
-`arrive`
-reach a place at the end of a journey.
-_I arrived in Tasmania this morning._
-
+.
