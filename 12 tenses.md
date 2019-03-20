@@ -2,14 +2,9 @@
 
 * [Present](#present)
 	* [Present Simple](#present-simple)
-	* [present](#present)
-	* [present](#present)
-	* [present](#present)
-	* [present](#present)
-	* [present](#present)
-	* [present](#present)
-	
-	
+	* [Present Continuous](#present-continuous)
+	* [Present Perfect](#present-perfect)
+	* [Present Perfect Continuous ](#present-perfect-continuous )
 * past
 
 * future
@@ -126,3 +121,7 @@ We've been studying for too long, let's take a break.
 
 5. A temporary action different from usual  
 I've been going out a lot recently. (I don't usually go out but my causin is visiting from Sydney now so my habit has change temporrily).
+
+6. Someone ca `perceive` the result of an action that happened in the past (and may or may not be finished)  
+Has it been raining?  
+You have been cooking.
