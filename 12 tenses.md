@@ -5,7 +5,7 @@
 	* [Present Continuous](#present-continuous)
 	* [Present Perfect](#present-perfect)
 	* [Present Perfect Continuous ](#present-perfect-continuous )
-* past
+* [Past](#past)
 
 * future
 
@@ -125,3 +125,8 @@ I've been going out a lot recently. (I don't usually go out but my causin is vis
 6. Someone ca `perceive` the result of an action that happened in the past (and may or may not be finished)  
 Has it been raining?  
 You have been cooking.
+
+
+## Past
+#### Past Simple  
+**(S + base)**
