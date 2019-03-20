@@ -25,7 +25,7 @@ I love dogs.
 My plane leaves at 6.00 tomorrow.
 
 
-## Present Continuos  
+## Present Continuous  
 **(be + ing)**
 
 1. Something happening now/at the moment  
@@ -68,7 +68,36 @@ Surraund by a beautiful coastline to the east and montains to the west, the Gold
 Of course I've tried sashimi.
 
 2. Things that happened in the past have an effect now  
-Oh my God, I've lost my red pen.
-*The difference between Past Simple and Present Perfect: `the Past Simple does not tell me about now` but `the Present Perfect tells me something about now`.
+Oh my God, I've lost my red pen.  
+*The difference between Past Simple and Present Perfect: `the Past Simple does not tell me about now` but `the Present Perfect tells me something about now`*.
 
-3. 
+3. an action which stated in the pst but is `not complete`  
+*This is `used with a time marker to show that the action continues`.(for/since)*  
+Andreza has lived on the Gold Coast. (finished) (this is not still happening) (Present Perfect without time marker = finished)  
+Eddie has lived on the Gold Coast for `around seven months`. (not finished) (still happening) (Present Perfect + time marker = not finished)  
+_(= Present Perfect Continuous) = `Eddie has been living on the Gold Coast for around seven months.`_
+
+4. How many times  
+I've been to japan three times.
+
+5. When the time is not important (the fact is)  
+A doctor has recently discovered a cure for the common cold.
+
+6. Already - The action is complete (often faster than I expected)  
+I've already eaten lunch.
+
+7. Yet - The action is not complete (but it probably should be/slow)  
+Sorry, I haven't done my homework yet.
+
+8. Just - Recent past  
+He has just fallen asleep again, please wake him up.
+
+9. Still - With the present still means it isn't done. It's always used with a negative in Present Perfect.  
+I still have not done my homwork.
+
+10. `For and since` are two common time markers with Present Perfect.  
+For: a period of time  
+Since: and exact point in time . 
+Keiko has been here for three months.
+Keiko has been here since `December`.
+Keiko has been here since `she quit her job`.
