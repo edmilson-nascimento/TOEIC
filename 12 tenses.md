@@ -1,5 +1,12 @@
 # Tenses
 
+* Present
+	* [present](#present)
+
+* past
+
+* future
+
 ## Present
 #### Present Simple  
 **(S + base)**
@@ -43,3 +50,25 @@ I'm living in Australia now but I'll go back next year.
 6. Facts  
 The company */which is `printing`/* is in Sydney.
 The company */which prints/* is in Sydney. (*this is perfect but it means I can't reduce anything*)
+
+**Permanent facts**  
+(*we can do this because this gives us a "be" ver and then we can reduce Relative Clauses*)  
+The clock hangs on the wall. (present simple) The clock is slow.  
+The clock whick hangs on the wall is slow.  
+The clock (~~which~~ ~~is~~ hanging in the wall) is slow.
+Hanging on the wall, the clock is slow.  
+Surraund by a beautiful coastline to the east and montains to the west, the Gold Coast is a major tourist attraction.
+
+## Present Perfect  
+**(S + have/has + PP)**  
+**(S + haven't/hasn't / have never/has never + PP)**  
+**(have/has + S (ever) + PP)**  
+
+1. Experience  
+Of course I've tried sashimi.
+
+2. Things that happened in the past have an effect now  
+Oh my God, I've lost my red pen.
+*The difference between Past Simple and Present Perfect: `the Past Simple does not tell me about now` but `the Present Perfect tells me something about now`.
+
+3. 
