@@ -1,8 +1,15 @@
 # Tenses
 
-* Present
+* [Present](#present)
+	* [Present Simple](#present-simple)
 	* [present](#present)
-
+	* [present](#present)
+	* [present](#present)
+	* [present](#present)
+	* [present](#present)
+	* [present](#present)
+	
+	
 * past
 
 * future
@@ -101,3 +108,21 @@ Since: and exact point in time .
 Keiko has been here for three months.
 Keiko has been here since `December`.
 Keiko has been here since `she quit her job`.
+
+
+### Present Perfect Continuous  
+**(have/has + been + ing)**
+
+1. Usually used to emphasise long or repeated actions  
+I've been living here for five years.
+
+2. It is good friends of verbs we think are long (example: wait, lie, sit, think, learn)  
+I've been waiting here for ages! Where are you?
+
+3. Imcompleteness  
+We've been studying for too long, let's take a break.
+
+4. While the Present Perfect Continuous focusses on the result (I've done my homework so now I can go to Melbas). The Present Perfect Continuous often focusess on the action in process (I've been doing my homework all afternoon).
+
+5. A temporary action different from usual  
+I've been going out a lot recently. (I don't usually go out but my causin is visiting from Sydney now so my habit has change temporrily).
